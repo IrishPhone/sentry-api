@@ -1,0 +1,6 @@
+{
+  "name": "Python on Heroku",
+  "description": "Buggy server for logging",
+  "image": "heroku/python",
+  "keywords": ["python", "bottle", "sentry_sdk" ],
+}
